@@ -1,5 +1,5 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+## DATE:2-11-2026
 
 ## AIM:
 To create a 3D model from given orthographic projection.
@@ -11,36 +11,19 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
-
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
-
-5.	Use inspect feature to measure the dimensions of sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
-
-7.	Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
-
-8.	After finishing the model convert to drawing sheet per  ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
-
-## INPUT:
-![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
+1. Open Autodesk 360 and select a new file and then select the sketch icon.
+2. Take the top view and draw the u shaped fork profile with the length of 52 mm, and width of 11 + 18 + 11 = 40 mm.
+3. Inner slot cutout 18 mm wide and 36 mm deep from the front tips.
+4. Extrude this u shaped fork at 32 mm and fillet the two edges at R16.
+5. Draw a circle at the center of the side in the diameter of 16mm and select  extrude and select the cut option and click ok.
+6. Take the right view and draw circle of diameter 18 mm, and extrude it at 32 mm.
+7. After finishing the sketch , switch to drawing mode to plot the sketch in ISO standard.
+8. The finished model will be like this:
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/d5ab4a05-31e5-45b7-ba29-1ca9ea029779" />
+## SKETCH:
+<img width="1222" height="864" alt="image_862b3bb3" src="https://github.com/user-attachments/assets/08e3603d-2594-411d-b4b8-667cb033da25" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
